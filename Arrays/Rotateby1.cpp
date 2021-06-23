@@ -56,3 +56,13 @@ int main(){
 
     return 0;
 }
+
+// GFG Submission 
+// void rotate(int numbers[], int size)
+// {
+//     int temp = numbers[size - 1];
+//     for(int i = size - 1; i > 0; i--){
+//         numbers[i] = numbers[i - 1];
+//     }
+//     numbers[0] = temp;
+// }

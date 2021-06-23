@@ -25,3 +25,20 @@ int main(){
 
     return 0;
 }
+
+// GFG Submission func
+
+// pair<long long, long long> getMinMax(long long numbers[], int n) {
+//     long long min = LLONG_MAX,max = LLONG_MIN;
+//     for(long long  i = 0; i < n; i++){
+//         if(min > numbers[i]){
+//             min = numbers[i];
+//         }
+
+//         if(max < numbers[i]){
+//             max = numbers[i];
+//         }
+//     }
+//     return {min,max};
+
+// }
